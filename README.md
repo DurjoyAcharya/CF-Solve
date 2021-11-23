@@ -1,3 +1,7 @@
 #Here I just Testing some code
 
-<h1 bgcolor=cyan>Problemse-CodeForces-Solving</h1>
+<body style="background-color:powderblue;">
+
+<h1>Problemse-CodeForces-Solving</h1>
+
+</body>
