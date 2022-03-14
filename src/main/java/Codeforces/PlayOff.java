@@ -1,9 +1,6 @@
 package Codeforces;
 
-//t = int(input())
-//for i in range(t):
-//    n = int(input())
-//    print(2 ** n - 1)
+//problem 1651A
 public class PlayOff {
     private static final java.util.Scanner sc=new java.util.Scanner(System.in);
     public void Solve()
