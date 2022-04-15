@@ -1,7 +1,7 @@
 //1649A
 #include<bits/stdc++.h>
 using namespace std;
-main()
+int32_t main()
 {
     int t; scanf("%d", &t);
     while(t--){
